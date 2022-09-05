@@ -13,7 +13,9 @@ function Home() {
             <p>
               MERN Stack <br /> Developer, Python
             </p>
-            <button className="primary-button">Get Started</button>
+            <button className="primary-button font-bold w-50">
+              Get Started
+            </button>
           </div>
         </div>
       </div>
