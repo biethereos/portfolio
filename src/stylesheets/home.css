@@ -1,6 +1,8 @@
 .introduction {
   height: 100vh;
   width: 100%;
+  background-position: 100% 100%;
+  background-size: cover;
 }
 
 .introduction p {
@@ -8,6 +10,7 @@
 }
 
 .introduction div h1 {
+  font-weight: bold;
   color: rgba(255, 255, 255, 0.466);
   font-size: 100px;
 }
