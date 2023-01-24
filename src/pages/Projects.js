@@ -1,11 +1,13 @@
-import React from 'react';
+import React from "react";
+import Header from "../components/Header";
 
 function Projects() {
-	return (
-		<div>
-			<h1>Projects</h1>
-		</div>
-	);
+  return (
+    <div>
+      <Header />
+      <h1>Projects</h1>
+    </div>
+  );
 }
 
 export default Projects;
